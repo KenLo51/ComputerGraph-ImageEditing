@@ -22,14 +22,24 @@ NTUST 111-1-賴祐吉-電腦圖學導論  Project1(影像處理)
  10.dither-color
     Floyd-Steinberg，24bits轉8bits
  11.filter-box
+ 
  12.filter-bartlett
+ 
  13.filter-gauss
+ 
  14.filter-gauss-n <kernel size>
+ 
  15.filter-edge
+ 
  16.filter-enhance
+ 
  17.half
+ 
  18.double
+ 
  19.scale <n>
+ 
  20.rotate <n>
+ 
  21.npr-paint
  
