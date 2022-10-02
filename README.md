@@ -2,24 +2,34 @@
 NTUST 111-1-賴祐吉-電腦圖學導論  Project1(影像處理)
 
 #### 指令
- 1. load <filename>
+ 1. load \<filename\>
+\
     開啟tga格式圖片檔案
  2. gray
+\
     RGB轉灰階(I = 0.299R + 0.587G + 0.114B)
  3. quant-unif
+\
     Uniform Quantization，24bits轉8bits
  4. quant-pop
+\
     Populosity Quantization，24bits轉8bits
  5. dither-thresh
- 6. dither-bright
+\
+ 7. dither-bright
+\
     平均亮度
  7. dither-rand
+\
     使用uniform(-0.2, 0.2)
  8. dither-cluster
-    mask = [180 90 150 60; 15 240 210 105; 120 195 225 80; 45 135 75 165]
+\
+    mask = \[180 90 150 60; 15 240 210 105; 120 195 225 80; 45 135 75 165\]
  9. dither-fs
+\
     Floyd-Steinberg Dithering
- 10.dither-color
+ 10. dither-color 
+ \
     Floyd-Steinberg，24bits轉8bits
  11.filter-box
  
