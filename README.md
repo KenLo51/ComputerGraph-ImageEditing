@@ -1,6 +1,9 @@
 # NTUST-1111-ComputerGraph-Project1
 NTUST 111-1-賴祐吉-電腦圖學導論  Project1(ImageEditing)
 
+#### Libraries
+ 1. fltk-1.3.2
+
 #### 指令
  1. load \<filename\>
 >    開啟tga格式圖片檔案
