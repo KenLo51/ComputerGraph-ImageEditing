@@ -1,5 +1,5 @@
 # NTUST-1111-ComputerGraph-Project1
-NTUST 111-1-賴祐吉-電腦圖學導論  Project1(影像處理)
+NTUST 111-1-賴祐吉-電腦圖學導論  Project1(ImageEditing)
 
 #### 指令
  1. load \<filename\>
