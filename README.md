@@ -3,7 +3,7 @@
 #### Libraries
  1. fltk-1.3.2
 
-#### 指令
+#### 運行結果
  1. load \<filename\>
 >    開啟tga格式圖片檔案
 >
