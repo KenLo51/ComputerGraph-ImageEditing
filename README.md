@@ -1,4 +1,4 @@
-# ComputerGraph-ImageEditing
+# ComputerGraphic-ImageEditing
 
 1. FLTK 練習。  
 2. 基礎2D影像處理(Convolution, Warping, Dithering, ...)。  
